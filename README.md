@@ -1,18 +1,19 @@
 # Hi there! 👋 I'm Sahar Halili
 
 ## 🚀 About Me
-I'm recent **Computer Science graduate** with hands-on experience in **full-stack development**. 
-I love building innovative web applications and solving complex problems with code.
+I'm recent **Computer Science graduate** with hands-on experience in **full-stack development**.
+I love building innovative web applications, interactive games, and solving complex problems with code.
 
-- 🎓 **Fresh Computer Science Graduate** (2021-2024) from Holon Institute of Technology
-- 💼 Currently working as **Store Manager** while studying
-- 🌱 **Ready to transition** from management to software engineering role
+- 🎓 **Computer Science Graduate** (2021-2024) from Holon Institute of Technology
+- 💼 Currently working as **Mathematics and Computer Science Teacher** (2025-Present)
+- 🌱 **Building real-world projects** to showcase full-stack capabilities
 - 🔭 Seeking **junior/entry-level developer positions** in full-stack development
-- 💻 Specializing in **Python, JavaScript, React, and FastAPI**
-- 💬 Ask me about **Web Development, Python, React, FastAPI**
+- 💻 Specializing in **React, TypeScript, Python, and FastAPI**
+- 🎮 Recently built: **Interactive Financial Education Game** with comprehensive reporting system
+- 💬 Ask me about **Web Development, React, TypeScript, Python, FastAPI, Game Development**
 - 📫 Reach me at: **sahar_halili@icloud.com** | 📞 **050-574-1079**
 - 📍 Based in **Modiin-Maccabim-Reut, Israel**
-- ⚡ Fun fact: **I'm combining management experience with software engineering!**
+- ⚡ Fun fact: **Combining teaching experience with software engineering to build educational tech!**
 
 ---
 
@@ -32,12 +33,16 @@ I love building innovative web applications and solving complex problems with co
 
 ### Backend & Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-### Development Tools
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+### Development Tools & Build
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 
 ---
 
@@ -62,18 +67,27 @@ I love building innovative web applications and solving complex problems with co
 
 ## 💻 Featured Projects
 
-### 🛒 Smart Price Comparison Platform
-**Full-Stack Price Comparison Web Application**
-- **Tech Stack**: FastAPI (Python) + React TypeScript
-- **Features**: Product search, filtering, price tracking across multiple stores
-- **Highlights**: Responsive design, automated API documentation, data validation with Pydantic models
-- Built a complete full-stack solution for comparing prices across different retailers
+### 💰 [Budget Balance Game](https://saharhalili95.github.io/budget-balance-game/)
+**Interactive Financial Education Game** | [View Code](https://github.com/SaharHalili95/budget-balance-game)
+- **Tech Stack**: React + TypeScript + Vite
+- **Features**: 5 progression levels, 8 achievements, monthly challenges, comprehensive financial reporting
+- **Highlights**: Bilingual support (English/Hebrew with RTL), decision tracking system, personalized financial recommendations
+- **Special**: Financial advisor system that analyzes your decisions and provides actionable insights like a real accountant
+- Built to teach financial literacy through gamification with modern animations and responsive design
 
-### 📊 Inventory Management System
-**Web Application for Business Operations**
-- **Tech Stack**: Backend system with database integration
-- **Features**: Tracking and managing inventory, data validation, reporting features
-- **Impact**: Streamlined inventory processes with modern web technologies
+### 🛒 [Smart Price Comparison Platform](https://saharhalili95.github.io/price-comparison-platform/)
+**Full-Stack Price Comparison Web Application** | [View Code](https://github.com/SaharHalili95/price-comparison-platform)
+- **Tech Stack**: FastAPI (Python) + React TypeScript
+- **Features**: Product search, filtering, price tracking across 3,000+ products in 8 categories
+- **Highlights**: Responsive design, automated API documentation, data validation with Pydantic models
+- Built for Israeli market with Hebrew interface and multi-store price comparison
+
+### 📝 [Interview Prep Tracker](https://saharhalili95.github.io/interview-prep-tracker/)
+**Full-Stack Interview Preparation Application** | [View Code](https://github.com/SaharHalili95/interview-prep-tracker)
+- **Tech Stack**: FastAPI + MongoDB + React TypeScript
+- **Features**: Question management, progress tracking, categorization, difficulty levels
+- **Highlights**: Real-time data persistence, RESTful API, modern UI/UX
+- Helps developers systematically prepare for technical interviews
 
 ### 🌐 [Live HTML Portfolio](https://saharhalili95.github.io/html-portfolio/)
 **Personal Portfolio Website** | [View Code](https://github.com/SaharHalili95/html-portfolio)
