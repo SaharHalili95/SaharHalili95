@@ -2,7 +2,7 @@
 
 **Computer Science Graduate** | Full-Stack Developer | React, TypeScript, Python, FastAPI
 
-🎓 B.Sc. Computer Science — Holon Institute of Technology (2024)
+🎓 B.Sc. Computer Science — Holon Institute of Technology (2025)
 📍 Based in Israel | 🔭 Seeking junior/entry-level developer positions
 
 ---
