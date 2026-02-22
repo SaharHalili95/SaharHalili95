@@ -25,14 +25,15 @@ Full portfolio showcasing all my projects, skills, and experience with modern de
 **🔗 Live Demo:** https://saharhalili95.github.io/codemate-ai/
 
 #### Key Features:
-- ✅ Complete RAG pipeline: parsing → chunking → embeddings → vector DB → LLM
-- ✅ OpenAI embeddings + ChromaDB + GPT-4 integration
+- ✅ 100% Client-Side - runs entirely in your browser, no backend needed
+- ✅ OpenAI GPT-4 integration for intelligent code Q&A
 - ✅ Modern React TypeScript frontend with real-time chat
-- ✅ Semantic code search and intelligent Q&A
+- ✅ Code search and file management
+- ✅ Privacy-first: your code never leaves your browser (except for AI chat)
 - ✅ Deployed on GitHub Pages
 
 #### Tech Stack:
-FastAPI • OpenAI API • ChromaDB • React • TypeScript • Tailwind CSS • Vector Embeddings
+React • TypeScript • OpenAI API • Tailwind CSS • localStorage • Vite
 
 **[📖 View on GitHub](https://github.com/SaharHalili95/codemate-ai)** | **[🌐 Try Live Demo](https://saharhalili95.github.io/codemate-ai/)**
 
