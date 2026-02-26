@@ -2,7 +2,7 @@
 
 ## 🤖 AI Engineer | Full-Stack Developer
 
-I build AI-powered applications and modern web experiences. Specializing in RAG systems, LLM integration, and vector databases.
+I build secure, full-stack applications and AI-powered tools. Specializing in Zero Trust security, authentication systems, and modern web experiences.
 
 ---
 
@@ -16,37 +16,38 @@ Full portfolio showcasing all my projects, skills, and experience with modern de
 
 ---
 
-## 🚀 Featured Project: CodeMate AI
+## 🚀 Featured Project: PriceCompare Pro
 
-### [CodeMate AI](https://github.com/SaharHalili95/codemate-ai) - RAG-Powered Code Assistant
+### [PriceCompare Pro](https://github.com/SaharHalili95/price-comparison-platform) - Smart Price Comparison with Zero Trust Auth
 
-🤖 **Professional AI code assistant that lets you chat with your codebase**
+🔐 **Full-stack price comparison platform secured with Zero Trust Authentication**
 
-**🔗 Live Demo:** https://saharhalili95.github.io/codemate-ai/
+**🔗 Live Demo:** https://saharhalili95.github.io/price-comparison-platform/
 
 #### Key Features:
-- ✅ 100% Client-Side - runs entirely in your browser, no backend needed
-- ✅ OpenAI GPT-4 integration for intelligent code Q&A
-- ✅ Modern React TypeScript frontend with real-time chat
-- ✅ Code search and file management
-- ✅ Privacy-first: your code never leaves your browser (except for AI chat)
-- ✅ Deployed on GitHub Pages
+- ✅ **Zero Trust Authentication** - JWT tokens with rotation, blacklisting & audit logging
+- ✅ Account lockout (5 failed attempts = 30 min lock) & per-IP rate limiting
+- ✅ RBAC (User/Admin roles) with admin-only endpoints
+- ✅ Real-time price comparison across multiple stores
+- ✅ Modern React + TypeScript frontend with Hebrew RTL support
+- ✅ Security headers (HSTS, CSP, X-Frame-Options)
+- ✅ Full audit trail of all authentication events
 
 #### Tech Stack:
-React • TypeScript • OpenAI API • Tailwind CSS • localStorage • Vite
+FastAPI • React • TypeScript • SQLAlchemy • JWT • bcrypt • slowapi • Tailwind CSS • Vite
 
-**[📖 View on GitHub](https://github.com/SaharHalili95/codemate-ai)** | **[🌐 Try Live Demo](https://saharhalili95.github.io/codemate-ai/)**
+**[📖 View on GitHub](https://github.com/SaharHalili95/price-comparison-platform)** | **[🌐 Try Live Demo](https://saharhalili95.github.io/price-comparison-platform/)**
 
 ---
 
 ## 💻 Tech Stack
 
-### AI/ML:
+### Security & AI:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Zero_Trust](https://img.shields.io/badge/-Zero_Trust-DC382D?style=flat)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/-RAG-FF6B6B?style=flat)
-![ChromaDB](https://img.shields.io/badge/-ChromaDB-4EA94B?style=flat)
-![Vector_DB](https://img.shields.io/badge/-Vector_DB-00D9FF?style=flat)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat)
 
 ### Frontend:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -82,9 +83,9 @@ React • TypeScript • OpenAI API • Tailwind CSS • localStorage • Vite
 
 ## 🔥 More Projects
 
-### 💰 [Price Comparison Platform](https://github.com/SaharHalili95/price-comparison-platform)
-Full-stack price comparison web app with real-time scraping
-**Tech:** FastAPI, React, TypeScript, Python
+### 🤖 [CodeMate AI](https://github.com/SaharHalili95/codemate-ai)
+RAG-powered code assistant - chat with your codebase in the browser
+**Tech:** React, TypeScript, OpenAI API, Tailwind CSS, Vite
 
 ### 🎮 [Budget Balance Game](https://github.com/SaharHalili95/budget-balance-game)
 Interactive financial education game with achievements system
@@ -129,10 +130,10 @@ Yeshivat Bnei Akiva Lapid, Modi'in | 2025-Present
 
 ## 💡 Currently Working On
 
-- 🔨 Building AI-powered applications with RAG architecture
-- 📚 Learning advanced ML/DL techniques and LLM fine-tuning
-- 🚀 Deploying production-ready AI systems
-- 📝 Contributing to open-source AI projects
+- 🔐 Implementing Zero Trust Authentication systems
+- 🔨 Building secure full-stack applications
+- 📚 Learning advanced security patterns and AI/ML techniques
+- 🚀 Deploying production-ready secure systems
 
 ---
 
