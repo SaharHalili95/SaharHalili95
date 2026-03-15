@@ -2,7 +2,7 @@
 
 ## 🤖 AI Engineer | Full-Stack Developer
 
-I build secure, full-stack applications and AI-powered tools. Specializing in Zero Trust security, authentication systems, and modern web experiences.
+Security-focused AI & Full-Stack Engineer who ships production-ready systems fast. Hands-on with network security monitoring, SOC 2 compliance, and AI-assisted development (Claude Code, Cursor).
 
 ---
 
@@ -59,6 +59,11 @@ FastAPI • React • TypeScript • SQLAlchemy • JWT • bcrypt • slowapi �
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+### AI Tools:
+![Claude_Code](https://img.shields.io/badge/-Claude_Code-CC785C?style=flat&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logoColor=white)
+![GitHub_Copilot](https://img.shields.io/badge/-GitHub_Copilot-181717?style=flat&logo=github&logoColor=white)
 
 ### Tools:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
