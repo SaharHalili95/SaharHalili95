@@ -2,7 +2,7 @@
 
 ## 🤖 AI Engineer | Full-Stack Developer
 
-Security-focused AI & Full-Stack Engineer who ships production-ready systems fast. Hands-on with network security monitoring, SOC 2 compliance, and AI-assisted development (Claude Code, Cursor).
+Building secure, production-ready systems from the ground up — network monitoring, SOC 2 compliance, and AI-powered applications. Security-first mindset with full-stack delivery speed.
 
 ---
 
