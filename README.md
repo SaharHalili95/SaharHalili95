@@ -16,27 +16,26 @@ Full portfolio showcasing all my projects, skills, and experience with modern de
 
 ---
 
-## 🚀 Featured Project: PriceCompare Pro
+## 🚀 Featured Project: NetSentinel
 
-### [PriceCompare Pro](https://github.com/SaharHalili95/price-comparison-platform) - Smart Price Comparison with Zero Trust Auth
+### [NetSentinel](https://github.com/SaharHalili95/netsentinel) - Real-Time Network Monitoring & Intrusion Detection Platform
 
-🔐 **Full-stack price comparison platform secured with Zero Trust Authentication**
+🛡️ **Production-grade IDS giving security teams real-time visibility across their network**
 
-**🔗 Live Demo:** https://saharhalili95.github.io/price-comparison-platform/
+**🔗 GitHub:** https://github.com/SaharHalili95/netsentinel
 
 #### Key Features:
-- ✅ **Zero Trust Authentication** - JWT tokens with rotation, blacklisting & audit logging
-- ✅ Account lockout (5 failed attempts = 30 min lock) & per-IP rate limiting
-- ✅ RBAC (User/Admin roles) with admin-only endpoints
-- ✅ Real-time price comparison across multiple stores
-- ✅ Modern React + TypeScript frontend with Hebrew RTL support
-- ✅ Security headers (HSTS, CSP, X-Frame-Options)
-- ✅ Full audit trail of all authentication events
+- ✅ **Automated device discovery** — ARP scanning + nmap service version detection
+- ✅ **Live traffic capture** — Scapy packet sniffing with anomaly detection (suspicious ports, watchlist countries, traffic spikes)
+- ✅ **Real-time WebSocket alerts** — severity-based lifecycle (open → acknowledged → resolved)
+- ✅ **SOC 2 compliance module** — daily checks mapped to CC7.1, CC7.2, CC7.3, CC6.1, A1.1
+- ✅ **Network topology graph** — live visual map of devices and connections
+- ✅ **GeoIP world map** — visualize traffic origin by country
 
 #### Tech Stack:
-FastAPI • React • TypeScript • SQLAlchemy • JWT • bcrypt • slowapi • Tailwind CSS • Vite
+FastAPI • Next.js • PostgreSQL • Redis • Docker • WebSocket • Scapy • SQLAlchemy • Tailwind CSS
 
-**[📖 View on GitHub](https://github.com/SaharHalili95/price-comparison-platform)** | **[🌐 Try Live Demo](https://saharhalili95.github.io/price-comparison-platform/)**
+**[📖 View on GitHub](https://github.com/SaharHalili95/netsentinel)**
 
 ---
 
