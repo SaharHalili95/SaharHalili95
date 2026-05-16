@@ -87,6 +87,10 @@ FastAPI • Next.js • PostgreSQL • Redis • Docker • WebSocket • Scapy 
 
 ## 🔥 More Projects
 
+### 🧮 [EasyMat](https://github.com/SaharHalili95/easymat)
+AI-powered math tutor for the Israeli Bagrut exam (3/4/5 units) with RAG, Claude API & LaTeX rendering
+**Tech:** Next.js, TypeScript, Claude API, Pinecone, Voyage AI, KaTeX, Tailwind CSS
+
 ### 🤖 [CodeMate AI](https://github.com/SaharHalili95/codemate-ai)
 RAG-powered code assistant - chat with your codebase in the browser
 **Tech:** React, TypeScript, OpenAI API, Tailwind CSS, Vite
