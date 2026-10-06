@@ -44,7 +44,6 @@ FastAPI • Next.js • PostgreSQL • Redis • Docker • WebSocket • Scapy 
 ### Security & AI:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![Zero_Trust](https://img.shields.io/badge/-Zero_Trust-DC382D?style=flat)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat)
 
