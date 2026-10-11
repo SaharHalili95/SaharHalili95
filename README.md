@@ -86,6 +86,10 @@ FastAPI • Next.js • PostgreSQL • Redis • Docker • WebSocket • Scapy 
 
 ## 🔥 More Projects
 
+### 🌱 [HardenGarden](https://github.com/SaharHalili95/hardengarden)
+Read-only Linux hardening auditor: 12 security checks, a deterministic score, local-AI explanations with citations (RAG), and reviewed fix scripts - signed .deb and AppImage releases
+**Tech:** Python, FastAPI, Ollama, ChromaDB, Tauri (Rust), React, TypeScript, Docker · **[Website](https://saharhalili95.github.io/hardengarden/)**
+
 ### 🧮 [EasyMat](https://github.com/SaharHalili95/easymat)
 AI-powered math tutor for the Israeli Bagrut exam (3/4/5 units) with RAG, Claude API & LaTeX rendering
 **Tech:** Next.js, TypeScript, Claude API, Pinecone, Voyage AI, KaTeX, Tailwind CSS
