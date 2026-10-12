@@ -52,8 +52,12 @@ FastAPI • Next.js • PostgreSQL • Redis • Docker • WebSocket • Scapy 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 
 ### Backend:
+![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET_8-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -85,6 +89,10 @@ FastAPI • Next.js • PostgreSQL • Redis • Docker • WebSocket • Scapy 
 ---
 
 ## 🔥 More Projects
+
+### 💼 [SalaryNet](https://github.com/SaharHalili95/SalaryNet)
+Payroll & HR management system: Clean Architecture Web API with tiered tax calculation, JWT roles with IDOR protection, and 123 xUnit tests including SQL Server integration tests in Testcontainers
+**Tech:** C#, .NET 8, ASP.NET Core, EF Core, SQL Server, Vue 3, TypeScript, Docker · **[Live Demo](https://saharhalili95.github.io/SalaryNet/)**
 
 ### 🌱 [HardenGarden](https://github.com/SaharHalili95/hardengarden)
 Read-only Linux hardening auditor: 12 security checks, a deterministic score, local-AI explanations with citations (RAG), and reviewed fix scripts - signed .deb and AppImage releases
