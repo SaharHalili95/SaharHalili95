@@ -91,7 +91,7 @@ FastAPI • Next.js • PostgreSQL • Redis • Docker • WebSocket • Scapy 
 ## 🔥 More Projects
 
 ### 💼 [SalaryNet](https://github.com/SaharHalili95/SalaryNet)
-Payroll & HR management system: Clean Architecture Web API with tiered tax calculation, JWT roles with IDOR protection, and 123 xUnit tests including SQL Server integration tests in Testcontainers
+Payroll & HR management system: Clean Architecture Web API with tiered tax calculation, JWT roles with IDOR protection, account lockout and user management, and 162 xUnit tests including SQL Server integration tests in Testcontainers
 **Tech:** C#, .NET 8, ASP.NET Core, EF Core, SQL Server, Vue 3, TypeScript, Docker · **[Live Demo](https://saharhalili95.github.io/SalaryNet/)**
 
 ### 🌱 [HardenGarden](https://github.com/SaharHalili95/hardengarden)
