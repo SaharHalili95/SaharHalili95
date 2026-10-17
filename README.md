@@ -56,14 +56,14 @@ Telegram bot and web UI that write Hebrew eCommerce product pages with the Claud
 
 ## Tech
 
-**Backend:** C#, .NET 8, ASP.NET Core Web API, EF Core, SQL Server, Python, FastAPI, Node.js, PostgreSQL, Redis, MongoDB
-**Frontend:** Vue 3, React, Next.js, TypeScript, Tailwind CSS
-**Quality and delivery:** xUnit, Moq, Testcontainers, pytest, Vitest, Playwright, Docker, GitHub Actions
-**AI:** RAG, vector databases (ChromaDB, Pinecone), OpenAI and Claude APIs, local LLMs with Ollama
+- **Backend:** C#, .NET 8, ASP.NET Core Web API, EF Core, SQL Server, Python, FastAPI, Node.js, PostgreSQL, Redis, MongoDB
+- **Frontend:** Vue 3, React, Next.js, TypeScript, Tailwind CSS
+- **Quality and delivery:** xUnit, Moq, Testcontainers, pytest, Vitest, Playwright, Docker, GitHub Actions
+- **AI:** RAG, vector databases (ChromaDB, Pinecone), OpenAI and Claude APIs, local LLMs with Ollama
 
 ---
 
 ## Education and experience
 
-**B.Sc. Computer Science**, Holon Institute of Technology (HIT), 2021-2025
-**Mathematics and Computer Science Teacher**, Yeshivat Bnei Akiva Lapid, Modi'in, 2025-present
+- **B.Sc. Computer Science**, Holon Institute of Technology (HIT), 2021-2025
+- **Mathematics and Computer Science Teacher**, Yeshivat Bnei Akiva Lapid, Modi'in, 2025-present
