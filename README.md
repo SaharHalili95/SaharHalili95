@@ -4,7 +4,7 @@
 
 B.Sc. Computer Science (HIT). I build tested, documented systems end to end: ASP.NET Core Web APIs with Clean Architecture, Vue and React front ends, security tools and local-AI apps. I also teach programming and mathematics to high school students.
 
-🌐 **[Portfolio with live demos](https://saharhalili95.github.io/html-portfolio/)** · 💼 **[LinkedIn](https://www.linkedin.com/in/sahar-halili-36ba38300)** · ✉️ **[sahar_halili@icloud.com](mailto:sahar_halili@icloud.com)**
+🌐 **[Portfolio with live demos](https://saharhalili95.github.io/html-portfolio/)** · 💼 **[LinkedIn](https://www.linkedin.com/in/sahar-halili)** · ✉️ **[sahar_halili@icloud.com](mailto:sahar_halili@icloud.com)**
 
 ---
 
