@@ -17,10 +17,10 @@ Payroll and HR management system built like a real product.
 - **ASP.NET Core 8 Web API** in Clean Architecture, EF Core on SQL Server, database-enforced business rules
 - **Progressive tax engine** with a full payslip breakdown
 - **JWT role-based security** (Admin / HR / Employee) with IDOR protection, account lockout and admin unlock
-- **Vue 3 + TypeScript** front end in English and Hebrew (full RTL)
-- **164 xUnit tests** (including Testcontainers integration tests on a real SQL Server) and **101 Playwright mobile tests** on iPhone and Android, all in CI
+- **Two front ends on the same API**, Vue 3 and Angular (TypeScript), in English and Hebrew (full RTL)
+- **164 xUnit tests** (including Testcontainers integration tests on a real SQL Server) and **Playwright mobile tests** for both front ends on iPhone and Android, all in CI
 
-`C#` `.NET 8` `ASP.NET Core` `EF Core` `SQL Server` `xUnit` `Vue 3` `TypeScript` `Playwright` `Docker` `GitHub Actions`
+`C#` `.NET 8` `ASP.NET Core` `EF Core` `SQL Server` `xUnit` `Vue 3` `Angular` `TypeScript` `Playwright` `Docker` `GitHub Actions`
 
 ---
 
