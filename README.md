@@ -26,6 +26,10 @@ Payroll and HR management system built like a real product.
 
 ## Projects
 
+### 🛒 [SalSmart](https://github.com/SaharHalili95/price-comparison-platform) · [Live demo](https://saharhalili95.github.io/price-comparison-platform/)
+Grocery price comparison on the official price files Israeli chains publish daily: streaming ingestion of 1.6M prices per run into PostgreSQL with change-only history, basket comparison by city, price-drop alerts over RabbitMQ.
+`Python` `FastAPI` `PostgreSQL` `React` `Kubernetes` `RabbitMQ` `Prometheus` `Grafana`
+
 ### 🛡️ [NetSentinel](https://github.com/SaharHalili95/netsentinel)
 Home-lab network monitoring: device discovery and port scanning with nmap, traffic anomaly detection, real-time WebSocket alerts and a SOC 2 daily-checks module.
 `FastAPI` `Next.js` `PostgreSQL` `Redis` `Docker` `WebSocket`
@@ -58,7 +62,8 @@ Telegram bot and web UI that write Hebrew eCommerce product pages with the Claud
 
 - **Backend:** C#, .NET 8, ASP.NET Core Web API, EF Core, SQL Server, Python, FastAPI, Node.js, PostgreSQL, Redis, MongoDB
 - **Frontend:** Vue 3, React, Next.js, TypeScript, Tailwind CSS
-- **Quality and delivery:** xUnit, Moq, Testcontainers, pytest, Vitest, Playwright, Docker, GitHub Actions
+- **Quality and delivery:** xUnit, Moq, Testcontainers, pytest, Vitest, Playwright, Docker, Kubernetes, GitHub Actions
+- **Data and messaging:** RabbitMQ, Prometheus, Grafana, streaming XML ingestion
 - **AI:** RAG, vector databases (ChromaDB, Pinecone), OpenAI and Claude APIs, local LLMs with Ollama
 
 ---
