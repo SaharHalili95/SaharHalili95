@@ -51,8 +51,8 @@ AI math tutor for the Israeli Bagrut exam (3/4/5 units): RAG over past exams wit
 `Next.js` `TypeScript` `Claude API` `Pinecone` `KaTeX`
 
 ### 🐧 [Linux Master](https://github.com/SaharHalili95/linux-master) · [Website](https://saharhalili95.github.io/linux-master/)
-Linux command trainer in Hebrew and English, based on OverTheWire Bandit: seven levels from single commands to pipelines and workflows, rounds with saved progress, installable and offline.
-`JavaScript` `PWA` `Linux` `Bash` `GitHub Actions`
+Linux command trainer in Hebrew and English, based on OverTheWire Bandit: eight levels from single commands to a full Bandit toolkit, spaced repetition, a typing mode, installable and offline. Tested in CI with Playwright and real Ubuntu runs.
+`JavaScript` `PWA` `Linux` `Bash` `Playwright` `Docker` `GitHub Actions`
 
 ### 🛒 [NitaiBot](https://github.com/SaharHalili95/nitai-bot)
 Telegram bot and web UI that write Hebrew eCommerce product pages with the Claude API and web search.
