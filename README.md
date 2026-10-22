@@ -50,6 +50,10 @@ Adaptive network routing with tabular Q-learning, benchmarked against shortest-p
 AI math tutor for the Israeli Bagrut exam (3/4/5 units): RAG over past exams with the Claude API, Pinecone and KaTeX.
 `Next.js` `TypeScript` `Claude API` `Pinecone` `KaTeX`
 
+### 🐧 [Linux Master](https://github.com/SaharHalili95/linux-master) · [Website](https://saharhalili95.github.io/linux-master/)
+Hebrew Linux command trainer based on OverTheWire Bandit: seven levels from single commands to pipelines and workflows, rounds with saved progress, installable and offline.
+`JavaScript` `PWA` `Linux` `Bash` `GitHub Actions`
+
 ### 🛒 [NitaiBot](https://github.com/SaharHalili95/nitai-bot)
 Telegram bot and web UI that write Hebrew eCommerce product pages with the Claude API and web search.
 `Python` `Flask` `Claude API` `python-telegram-bot`
