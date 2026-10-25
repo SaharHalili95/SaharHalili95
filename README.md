@@ -30,9 +30,9 @@ Payroll and HR management system built like a real product.
 Grocery price comparison on the official price files Israeli chains publish daily: streaming ingestion of 1.6M prices per run into PostgreSQL with change-only history, basket comparison by city, price-drop alerts over RabbitMQ.
 `Python` `FastAPI` `PostgreSQL` `React` `Kubernetes` `RabbitMQ` `Prometheus` `Grafana`
 
-### 🛡️ [NetSentinel](https://github.com/SaharHalili95/netsentinel)
-Home-lab network monitoring: device discovery and port scanning with nmap, traffic anomaly detection, real-time WebSocket alerts and a SOC 2 daily-checks module.
-`FastAPI` `Next.js` `PostgreSQL` `Redis` `Docker` `WebSocket`
+### 🛡️ [NetSentinel](https://github.com/SaharHalili95/netsentinel) · [Live demo](https://saharhalili95.github.io/netsentinel/)
+Home network security monitor: device discovery and port scanning with nmap, traffic anomaly rules, live WebSocket alerts and SOC 2 daily checks. English and Hebrew (RTL), accessible (axe-clean), Playwright tests on iPhone and Android.
+`FastAPI` `Next.js` `TypeScript` `PostgreSQL` `Redis` `Docker` `WebSocket` `Playwright`
 
 ### 🌱 [HardenGarden](https://github.com/SaharHalili95/hardengarden) · [Website](https://saharhalili95.github.io/hardengarden/)
 Read-only Linux hardening auditor: 12 security checks, a deterministic health score, local-AI explanations with cited sources, signed .deb and AppImage releases.
