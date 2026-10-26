@@ -10,7 +10,7 @@ B.Sc. Computer Science (HIT). I build tested, documented systems end to end: ASP
 
 ## Featured: SalaryNet
 
-### 💼 [SalaryNet](https://github.com/SaharHalili95/SalaryNet) · [Live demo](https://saharhalili95.github.io/SalaryNet/)
+### 💼 [SalaryNet](https://github.com/SaharHalili95/SalaryNet) · [Vue demo](https://saharhalili95.github.io/SalaryNet/) · [Angular demo](https://saharhalili95.github.io/SalaryNet/angular/) · [Angular code](https://github.com/SaharHalili95/SalaryNet/tree/main/web-angular)
 
 Payroll and HR management system built like a real product.
 
