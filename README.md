@@ -18,7 +18,7 @@ Payroll and HR management system built like a real product.
 - **Progressive tax engine** with a full payslip breakdown
 - **JWT role-based security** (Admin / HR / Employee) with IDOR protection, account lockout and admin unlock
 - **Two front ends on the same API**, Vue 3 and Angular (TypeScript), in English and Hebrew (full RTL)
-- **164 xUnit tests** (including Testcontainers integration tests on a real SQL Server) and **Playwright mobile tests** for both front ends on iPhone and Android, all in CI
+- **162 xUnit tests** (including Testcontainers integration tests on a real SQL Server) and **Playwright mobile tests** for both front ends on iPhone and Android, all in CI
 
 `C#` `.NET 8` `ASP.NET Core` `EF Core` `SQL Server` `xUnit` `Vue 3` `Angular` `TypeScript` `Playwright` `Docker` `GitHub Actions`
 
@@ -38,9 +38,9 @@ Home network security monitor: device discovery and port scanning with nmap, tra
 Read-only Linux hardening auditor: 12 security checks, a deterministic health score, local-AI explanations with cited sources, signed .deb and AppImage releases.
 `Python` `FastAPI` `Ollama` `ChromaDB` `Tauri` `React`
 
-### 🤖 [CodeMate AI](https://github.com/SaharHalili95/codemate-ai) · [Demo](https://saharhalili95.github.io/codemate-ai/)
+### 🤖 [CodeMate AI](https://github.com/SaharHalili95/codemate-ai) · [Landing page](https://saharhalili95.github.io/codemate-ai/)
 RAG code assistant: upload a codebase, search it semantically and ask questions about it.
-`FastAPI` `OpenAI API` `ChromaDB` `React` `TypeScript`
+`FastAPI` `OpenAI API` `Anthropic API` `ChromaDB` `pytest` `React` `TypeScript`
 
 ### 🧠 [MeshMind AI](https://github.com/SaharHalili95/meshmind-ai) · [Website](https://saharhalili95.github.io/meshmind-ai/)
 Adaptive network routing with tabular Q-learning, benchmarked against shortest-path baselines across multiple seeds.
