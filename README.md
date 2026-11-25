@@ -1,8 +1,8 @@
 # Hi, I'm Sahar Halili
 
-**Full-Stack Developer · C# / .NET · Vue & React · Python**
+**Junior Full-Stack Developer · React & TypeScript · C# / .NET · Python**
 
-B.Sc. Computer Science (HIT). I build tested, documented systems end to end: ASP.NET Core Web APIs with Clean Architecture, Vue and React front ends, security tools and local-AI apps. I also teach programming and mathematics to high school students.
+B.Sc. Computer Science (HIT), looking for my first full-time role as a software developer. I build full-stack web applications: React and TypeScript front ends, C# / ASP.NET Core or Python / FastAPI back ends and SQL databases, each with tests, CI and a live demo. I also teach programming and mathematics to high school students.
 
 🌐 **[Portfolio with live demos](https://saharhalili95.github.io/html-portfolio/)** · 💼 **[LinkedIn](https://www.linkedin.com/in/sahar-halili)** · ✉️ **[sahar_halili@icloud.com](mailto:sahar_halili@icloud.com)**
 
@@ -75,4 +75,5 @@ Telegram bot and web UI that write Hebrew eCommerce product pages with the Claud
 ## Education and experience
 
 - **B.Sc. Computer Science**, Holon Institute of Technology (HIT), 2021-2025
-- **Mathematics and Computer Science Teacher**, Yeshivat Bnei Akiva Lapid, Modi'in, 2025-present
+- **Freelance Software Developer**, Jan 2026-present
+- **Mathematics and Computer Science Teacher**, Yeshivat Bnei Akiva Lapid, Modi'in, Oct 2025-present
